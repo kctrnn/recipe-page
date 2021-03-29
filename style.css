@@ -121,7 +121,7 @@ img {
 }
 
 .ingredients-right-item:first-child > i,
-.ingredients-right-number {
+.ingredients-right-item:first-child .ingredients-right-number {
   color: #f2994a;
 }
 
